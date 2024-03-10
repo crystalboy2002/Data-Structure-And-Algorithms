@@ -1,0 +1,42 @@
+INTERNSHIP:
+    CODESOFT JAVA PROGRAMMING,
+    DURATION 1-MONTHS.
+COURSE:
+    1.AI For Everyone BY DeepLearning.AI 
+    DURATION: 01 MONTHS,
+    At Coursera,
+    Passed this course with grade of 97.50%.
+    2.Introduction to Machine Learning by Duke University,
+    DURATION: 01 MONTHS,
+    At Coursera,
+    Passed this course with grade of 96.87%.
+    3.Divide and Conquer, Sorting and Searching, and Randomized Algorithms by Stanford University,
+    DURATION: 01 MONTHS,
+    At Coursera,
+    Passed this course with grade of 98%.
+    At Coursera.
+    4.Graph Search, Shortest Paths, and Data Structures by Stanford University,
+    DURATION: 01 MONTHS,
+    At Coursera,
+    Passed this course with grade of 100%.
+    At Coursera.
+    5.Greedy Algorithms, Minimum Spanning Trees, and Dynamic Programming by Stanford University
+    DURATION: 01 MONTHS,
+    At Coursera,
+    Passed this course with grade of 98%.
+    At Coursera.
+    6.Shortest Paths Revisited, NP-Complete Problems and What To Do About Them by Stanford University
+    DURATION: 01 MONTHS,
+    At Coursera,
+    Passed this course with grade of 100%.
+    At Coursera.
+    7.Learn Python Programming Masterclass by Tim Buchalka,
+    DURATION: 74 hours on-demand video,
+    At Udemy,
+    8.Soft Skills: The 11 Essential Career Soft Skills,
+    DURATION: 34 hours on-demand video,
+    At Udemy,
+
+
+
+
